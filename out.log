@@ -136,3 +136,85 @@ Operatii cu procese:
 3. Asteptare terminare procese
 4. Mutare proces in background/foreground
 Alege o optiune: Comanda procesului: Cloning into 'repo'...
+[main 3650a30] commit
+ 1 file changed, 138 insertions(+)
+ create mode 100644 out.log
+To https://github.com/StoicaAndreiMarius/testbackup
+   92580ff..3650a30  main -> main
+NEW START OF PROGRAM ---- Wed Jan  8 05:31:14 PM EET 2025
+Monitorizare resurse la fiecare 2 secunde:
+RAM:
+               total        used        free      shared  buff/cache   available
+Mem:            15Gi       6.4Gi       1.8Gi       1.4Gi       8.8Gi       8.9Gi
+Swap:          4.0Gi       1.0Mi       4.0Gi
+Hard Disk:
+Filesystem                      Size  Used Avail Use% Mounted on
+dev                             7.7G     0  7.7G   0% /dev
+run                             7.7G  2.2M  7.7G   1% /run
+efivarfs                        196K   83K  109K  44% /sys/firmware/efi/efivars
+/dev/mapper/ArchinstallVg-root  436G  105G  331G  24% /
+tmpfs                           7.7G     0  7.7G   0% /dev/shm
+tmpfs                           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+/dev/mapper/ArchinstallVg-root  436G  105G  331G  24% /.snapshots
+/dev/mapper/ArchinstallVg-root  436G  105G  331G  24% /home
+tmpfs                           7.7G  4.0K  7.7G   1% /tmp
+/dev/mapper/ArchinstallVg-root  436G  105G  331G  24% /var/cache/pacman/pkg
+/dev/mapper/ArchinstallVg-root  436G  105G  331G  24% /var/log
+/dev/nvme0n1p1                 1022M  186M  837M  19% /boot
+tmpfs                           1.6G   92K  1.6G   1% /run/user/1000
+CPU:
+%Cpu(s): 11.5 us,  6.2 sy,  0.0 ni, 81.5 id,  0.0 wa,  0.0 hi,  0.8 si,  0.0 st 
+Intensitate utilizare retea:
+        RX packets 9802106  bytes 12022386314 (11.1 GiB)
+        RX packets 6121  bytes 487992 (476.5 KiB)
+        RX packets 2018057  bytes 2318396724 (2.1 GiB)
+RAM:
+               total        used        free      shared  buff/cache   available
+Mem:            15Gi       6.4Gi       1.8Gi       1.4Gi       8.8Gi       8.9Gi
+Swap:          4.0Gi       1.0Mi       4.0Gi
+Hard Disk:
+Filesystem                      Size  Used Avail Use% Mounted on
+dev                             7.7G     0  7.7G   0% /dev
+run                             7.7G  2.2M  7.7G   1% /run
+efivarfs                        196K   83K  109K  44% /sys/firmware/efi/efivars
+/dev/mapper/ArchinstallVg-root  436G  105G  331G  24% /
+tmpfs                           7.7G     0  7.7G   0% /dev/shm
+tmpfs                           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+/dev/mapper/ArchinstallVg-root  436G  105G  331G  24% /.snapshots
+/dev/mapper/ArchinstallVg-root  436G  105G  331G  24% /home
+tmpfs                           7.7G  4.0K  7.7G   1% /tmp
+/dev/mapper/ArchinstallVg-root  436G  105G  331G  24% /var/cache/pacman/pkg
+/dev/mapper/ArchinstallVg-root  436G  105G  331G  24% /var/log
+/dev/nvme0n1p1                 1022M  186M  837M  19% /boot
+tmpfs                           1.6G   92K  1.6G   1% /run/user/1000
+CPU:
+%Cpu(s): 13.3 us,  3.9 sy,  0.0 ni, 82.8 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+Intensitate utilizare retea:
+        RX packets 9802106  bytes 12022386314 (11.1 GiB)
+        RX packets 6121  bytes 487992 (476.5 KiB)
+        RX packets 2018202  bytes 2318425101 (2.1 GiB)
+RAM:
+               total        used        free      shared  buff/cache   available
+Mem:            15Gi       6.4Gi       1.8Gi       1.4Gi       8.8Gi       8.9Gi
+Swap:          4.0Gi       1.0Mi       4.0Gi
+Hard Disk:
+Filesystem                      Size  Used Avail Use% Mounted on
+dev                             7.7G     0  7.7G   0% /dev
+run                             7.7G  2.2M  7.7G   1% /run
+efivarfs                        196K   83K  109K  44% /sys/firmware/efi/efivars
+/dev/mapper/ArchinstallVg-root  436G  105G  331G  24% /
+tmpfs                           7.7G     0  7.7G   0% /dev/shm
+tmpfs                           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+/dev/mapper/ArchinstallVg-root  436G  105G  331G  24% /.snapshots
+/dev/mapper/ArchinstallVg-root  436G  105G  331G  24% /home
+tmpfs                           7.7G  4.0K  7.7G   1% /tmp
+/dev/mapper/ArchinstallVg-root  436G  105G  331G  24% /var/cache/pacman/pkg
+/dev/mapper/ArchinstallVg-root  436G  105G  331G  24% /var/log
+/dev/nvme0n1p1                 1022M  186M  837M  19% /boot
+tmpfs                           1.6G   92K  1.6G   1% /run/user/1000
+CPU:
+%Cpu(s): 11.5 us,  2.3 sy,  0.0 ni, 85.5 id,  0.0 wa,  0.8 hi,  0.0 si,  0.0 st 
+Intensitate utilizare retea:
+        RX packets 9802106  bytes 12022386314 (11.1 GiB)
+        RX packets 6121  bytes 487992 (476.5 KiB)
+        RX packets 2018247  bytes 2318429358 (2.1 GiB)
