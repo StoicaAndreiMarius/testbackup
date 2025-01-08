@@ -1927,3 +1927,10 @@ Intensitate utilizare retea:
         RX packets 9802106  bytes 12022386314 (11.1 GiB)
         RX packets 6121  bytes 487992 (476.5 KiB)
         RX packets 1994078  bytes 2312877736 (2.1 GiB)
+NEW START OF PROGRAM ---- Wed Jan  8 05:20:08 PM EET 2025
+Operatii cu procese:
+1. Pornire proces nou
+2. Suspendare proces
+3. Asteptare terminare procese
+4. Mutare proces in background/foreground
+Alege o optiune: Comanda procesului: 
