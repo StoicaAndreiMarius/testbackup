@@ -807,3 +807,15 @@ Intensitate utilizare retea:
         RX packets 6125  bytes 488232 (476.7 KiB)
         RX packets 2045129  bytes 2324654683 (2.1 GiB)
 NEW START OF PROGRAM ---- Wed Jan  8 05:49:40 PM EET 2025
+NEW START OF PROGRAM ---- Wed Jan  8 05:50:32 PM EET 2025
+Utilizare: ./script.sh [optiuni]
+Optiuni:
+  -m, --monitor       Monitorizeaza resursele (ex.: -m 10s)
+  -p, --process       Operatii cu procese
+  -c, --config        Schimbare configuratii resurse
+  -t, --top           Afiseaza top procese (ex.: -t 3)
+  -k, --kill          Terminare procese (ex.: -k soft, -k hard)
+  -h, --help          Afiseaza acest mesaj de ajutor
+  -r, --restart       Restartare proces specific
+  -l, --log           Afisare loguri sistem in timp real
+  -u, --usage         Afiseaza utilizarea discului pentru fiecare director
